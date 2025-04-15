@@ -55,5 +55,9 @@ plt.show()
 ```
 ## Output Waveform
 ![image](https://github.com/user-attachments/assets/b94f51fe-cc99-4545-be79-de6c40ebceee)
+## Graph
+![WhatsApp Image 2025-04-15 at 20 30 01_f99aa392](https://github.com/user-attachments/assets/4671fba4-4f65-41c0-9d78-99e0e94a97fc)
+![WhatsApp Image 2025-04-15 at 20 30 02_34e30525](https://github.com/user-attachments/assets/f4b2b824-df3a-4ffb-940d-84cb0cc77659)
+
 ## Results
 Thus , A python program is simulate and visualize Amplitude Shift Keying (ASK) modulation and demodulation using a Butterworth low-pass filter for binary data.
